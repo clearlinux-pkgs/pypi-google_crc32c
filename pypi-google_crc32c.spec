@@ -7,7 +7,7 @@
 #
 Name     : pypi-google_crc32c
 Version  : 1.6.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/67/72/c3298da1a3773102359c5a78f20dae8925f5ea876e37354415f68594a6fb/google_crc32c-1.6.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/67/72/c3298da1a3773102359c5a78f20dae8925f5ea876e37354415f68594a6fb/google_crc32c-1.6.0.tar.gz
 Summary  : A python wrapper of the C library 'Google CRC32C'
